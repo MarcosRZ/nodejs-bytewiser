@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-bytewiser",
+  "version": "1.0.0",
+  "description": "NodeSchool.io bytewiser workshopper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosRZ/nodejs-bytewiser.git"
+  },
+  "author": "MarcosRZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosRZ/nodejs-bytewiser/issues"
+  },
+  "homepage": "https://github.com/MarcosRZ/nodejs-bytewiser#readme"
+}
